@@ -1,0 +1,24 @@
+{
+  "name": "excelToJson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "excelToJson": "node ./tools/excelToJson.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq26835124/nodeTools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qq26835124/nodeTools/issues"
+  },
+  "homepage": "https://github.com/qq26835124/nodeTools#readme",
+  "devDependencies": {
+    "xlsx": "^0.15.6"
+  },
+  "dependencies": {},
+  "description": ""
+}
